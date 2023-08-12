@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/Divyani-Rathod/my-gpt", "_blank")
+            window.open("https://github.com/Divyani-Rathod", "_blank")
           }
           className='black_btn'
         >
@@ -24,8 +24,8 @@ const Hero = () => {
         <span className='orange_gradient '>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplify your reading with Sumzi, an open-source article summarizer
+        that transforms lengthy articles into clear and concise summaries.
       </h2>
     </header>
   );
